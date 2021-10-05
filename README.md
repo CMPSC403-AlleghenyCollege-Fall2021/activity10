@@ -6,7 +6,7 @@ For the tenth activity you are invited to participated in a guided completion of
 
 ## Assignment
 
--  Complete [Activity 10]() directly on TryHackMe.
+-  Complete [Activity 10](https://tryhackme.com/jr/alleghenyintrocryptopw) directly on TryHackMe.
 
 ## Submission
 
