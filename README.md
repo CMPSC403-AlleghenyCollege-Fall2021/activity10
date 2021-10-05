@@ -1,6 +1,6 @@
 # Class Activity 10
 
-## Deadline: October 8 by 9:35am
+## Deadline: October 7 by 9:35am
 
 For the tenth activity you are invited to participated in a guided completion of CTF challenges on TryHackMe platform.
 
